@@ -29,11 +29,11 @@ This is a simple IQ test application built using C# and Windows Forms. The appli
     ```
 
 3. Compile the C# program using the provided batch file:
-    ```
+    ```sh
     compile_and_run.bat
     ```
 If Compile Did No`t Work Open File:
-    ```sh
+    ```
     IQTestForm.exe
     ```
 
