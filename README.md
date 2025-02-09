@@ -25,17 +25,17 @@ This is a simple IQ test application built using C# and Windows Forms. The appli
 
 2. Navigate to the project directory:
     ```sh
-    cd IQ-Test-main
+    cd IQTestApp
     ```
 
 3. Compile the C# program using the provided batch file:
     ```sh
-    compile_and_run-A.bat
+    compile_and_run.bat
     ```
 
 ### Usage
 
-1. Run the `compile_and_run-A.bat` file to start the application.
+1. Run the `compile_and_run.bat` file to start the application.
 2. Click the "Start Test" button to begin the IQ test.
 3. Answer each question within 30 seconds.
 4. At the end of the test, the application will display your IQ score and the number of correct and incorrect answers.
