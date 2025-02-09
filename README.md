@@ -25,7 +25,7 @@ This is a simple IQ test application built using C# and Windows Forms. The appli
 
 2. Navigate to the project directory:
     ```sh
-    cd IQTestApp
+    cd IQ-Test-main
     ```
 
 3. Compile the C# program using the provided batch file:
