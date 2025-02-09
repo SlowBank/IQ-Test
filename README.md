@@ -32,6 +32,10 @@ This is a simple IQ test application built using C# and Windows Forms. The appli
     ```sh
     compile_and_run.bat
     ```
+If Compile Did No`t Work Open File:
+    ```sh
+    IQTestForm.exe
+    ```
 
 ### Usage
 
